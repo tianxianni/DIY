@@ -1,11 +1,11 @@
 {
-	"spider": "./xghlib/spider.jar",
+	"spider": "http://mdxgh.tpddns.cn:9999/xghlib/spider.jar",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"warningText": "傲天:『影视』,接口整理维护",
 	"lives": [{
 		"name": "live",
 		"type": 0,
-		"url": "./new/mdlive.txt",
+		"url": "http://mdxgh.tpddns.cn:9999/new/mdlive.txt",
 		"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
 	}],
 
